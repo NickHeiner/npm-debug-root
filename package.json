@@ -1,0 +1,11 @@
+{
+  "name": "npm-debug-root",
+  "version": "0.1.0",
+  "description": "fake project to debug an npm issue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
